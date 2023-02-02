@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS</title>
+        <link>https://www.marca.com/</link>
+        <description>Novedades del mundo del deporte</description>
+        <language>es-ES</language>
+        <item>
+            <title>Programa con ChatGPT</title>
+            <link>https://chat.openai.com/auth/login</link>
+            <description>Ayuda para aprender a programar</description>
+        </item>
+        <item>
+            <title>El mayor foro de codigo del mundo</title>
+            <link>https://stackoverflow.com/</link>
+            <pubDate>Mon, 21 Mar 2022 01:00:00 GMT</pubDate>
+            <description>Resuelve todas las dudas que tengas de programacion con la ayuda de miles de profesionales al alcance de un solo click</description>
+        </item>
+    </channel>
+</rss>
